@@ -25,12 +25,8 @@ This project demonstrates my ability to:
 - Design websites using structured prompts
 - Build functional projects without manual coding
 
-## Sample video
-<img width="1923" height="983" alt="Screenshot 2026-03-06 145904" src="https://github.com/user-attachments/assets/dac9c819-b145-4118-8b02-85126407a50b" />
-<img width="1923" height="983" alt="Screenshot 2026-03-06 145904" src="https://github.com/user-attachments/assets/dac9c819-b145-4118-8b02-85126407a50b" />
-<img width="1920" height="981" alt="Screenshot 2026-03-06 145922" src="https://github.com/user-attachments/assets/cf46ade9-675d-4c7a-9a6a-cd7134e0a131" />
-<img width="1920" height="981" alt="Screenshot 2026-03-06 145922" src="https://github.com/user-attachments/assets/cf46ade9-675d-4c7a-9a6a-cd7134e0a131" />
-<img width="1923" height="986" alt="Screenshot 2026-03-06 145933" src="https://github.com/user-attachments/assets/fad84bf6-7898-4ee7-867b-bf86f3a9566b" />
-<img width="1923" height="986" alt="Screenshot 2026-03-06 145933" src="https://github.com/user-attachments/assets/fad84bf6-7898-4ee7-867b-bf86f3a9566b" />
+## Sample Screenshots
 <img width="1923" height="983" alt="Screenshot 2026-03-06 145834" src="https://github.com/user-attachments/assets/7a2ea5a3-06cb-4560-864b-f15f0d449993" />
-<img width="1923" height="983" alt="Screenshot 2026-03-06 145834" src="https://github.com/user-attachments/assets/7a2ea5a3-06cb-4560-864b-f15f0d449993" />
+<img width="1923" height="986" alt="Screenshot 2026-03-06 145933" src="https://github.com/user-attachments/assets/fad84bf6-7898-4ee7-867b-bf86f3a9566b" />
+<img width="1920" height="981" alt="Screenshot 2026-03-06 145922" src="https://github.com/user-attachments/assets/cf46ade9-675d-4c7a-9a6a-cd7134e0a131" />
+<img width="1923" height="983" alt="Screenshot 2026-03-06 145904" src="https://github.com/user-attachments/assets/dac9c819-b145-4118-8b02-85126407a50b" />
